@@ -1,6 +1,6 @@
 # Retail_sales_Forecasting 
 # Intro
-This project aims to forecast retail sales predict department-wide sales for each store of weekly sales Model Effects of Markdown Holiday weeks and recommend actions based on the insights drawn, with prioritization placed on the largest business impact using a Regression model to predict the weekly sales and correlation of heatmap to see the impact of markdown holiday     using seaborn and matplotlib shown the skewness and outlayers, insights analyse in Tableau  
+This project aims to forecast retail sales predict department-wide sales for each store of weekly sales Model Effects of Markdown Holiday weeks and recommend actions based on the insights drawn, with prioritization placed on the largest business impact using a Regression model to predict the weekly sales and correlation of heatmap to see the impact of markdown holiday     using seaborn and matplotlib shown the skewness and outlayers. 
 
 # Key Technologies and Skills
 - Python
